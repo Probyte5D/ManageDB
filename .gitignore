@@ -19,6 +19,12 @@ nbproject/build-impl.xml
 # Ignora cartella NetBeans
 nbproject/
 
+ant-deploy.xml
+genfiles.properties
+project.properties
+project.xml
+
+
 # === OS SYSTEM FILES ===
 .DS_Store
 Thumbs.db
